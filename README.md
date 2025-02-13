@@ -3,8 +3,8 @@
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
 
-  - [Web Development](https://github.com/shyakahmad/LABURL)
-  - [Hello world!](https://github.com/shyakahmad/LABURL)
+  - [Web Development](https://github.com/shyakahmad/WebDevelopmentProject/tree/main)
+  - [Hello world!](https://github.com/shyakahmad/WebDevelopmentProject/tree/main)
 
 <h2>📺 Popular YouTube Videos</h2>
 
